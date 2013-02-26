@@ -5,6 +5,8 @@
                 xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-facelettaglibrary_2_0.xsd">
 
     <namespace>http://primefaces.org/ui/extensions</namespace>
+    
+    <composite-library-name>primefaces-extensions/composite-components</composite-library-name>
 
     <!-- Functions -->
     <function>
